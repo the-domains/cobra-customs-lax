@@ -1,0 +1,28 @@
+name: Cobra Customs LAX
+favicon: null
+layout_spectrum: 0.565812254557386
+typography_spectrum: 0.6653384044766426
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.03716883109882474
+  lightness: 0.09043285343796015
+  saturation: 0.34745088848285377
+  rhythmicContrast: 0.4154415905941278
+purpose: []
