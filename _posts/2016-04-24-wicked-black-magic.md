@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T02:10:18.881Z'
-dateModified: '2016-04-24T02:09:47.522Z'
+datePublished: '2016-04-24T02:17:18.508Z'
+dateModified: '2016-04-24T02:16:58.260Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-wicked-black-magic.md
